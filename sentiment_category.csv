@@ -1,0 +1,4 @@
+Review Category,Sentiment,Positive,Neutral,Negative
+Product,0.47,43.0,5.0,0.0
+Service,0.37,3.0,0.0,1.0
+Shipping,0.28,4.0,2.0,0.0
