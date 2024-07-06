@@ -38,4 +38,4 @@ I also mapped out the regions that sales are from and noticed that 257 of all 26
 
 ## [Visualization](https://public.tableau.com/app/profile/sarah.he8574/viz/StarryStickerShopAnalysis/StarryStickerShopSalesAnalysis)
 I made the final visualization using Tableau to create a concise summary of Starry Sticker Shop's performance over the four year period.
-![Starry Sticker Shop Sales Analysis](https://github.com/sarahhe05/Starry-Sticker-Shop-Analysis/assets/142868875/1c433005-2fe7-4b5c-ae1b-dd40cefdb35c)
+[![Starry Sticker Shop Sales Analysis](https://github.com/sarahhe05/Starry-Sticker-Shop-Analysis/assets/142868875/1c433005-2fe7-4b5c-ae1b-dd40cefdb35c)](https://public.tableau.com/app/profile/sarah.he8574/viz/StarryStickerShopAnalysis/StarryStickerShopSalesAnalysis)
