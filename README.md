@@ -36,7 +36,6 @@ Understanding customer sentiment is important in identifying areas of improvemen
 I also mapped out the regions that sales are from and noticed that 257 of all 266 sales are from the United States, distrubuted as shown below
 ![image](https://github.com/sarahhe05/Starry-Sticker-Shop-Analysis/assets/142868875/761b9841-e2c2-444b-b2ab-bbb1f0fd838e)
 
-## [Visualization](https://public.tableau.com/app/profile/sarah.he8574/viz/StarryStickerShopAnalysis/StarryStickerShopSalesAnalysis)
+## [Visualization](https://public.tableau.com/shared/39RBN5SS2?:display_count=n&:origin=viz_share_link)
 I made the final visualization using Tableau to create a concise summary of Starry Sticker Shop's performance over the four year period.
 [![Starry Sticker Shop Sales Analysis](https://github.com/sarahhe05/Starry-Sticker-Shop-Analysis/assets/142868875/30c52bce-ed27-4043-9839-54e630099db0)](https://public.tableau.com/shared/39RBN5SS2?:display_count=n&:origin=viz_share_link)
-
