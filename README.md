@@ -2,7 +2,7 @@
 This is an analysis of the online shop data from my small business, Starry Sticker Shop.
 
 ## Data
-I downloaded sales and customer review data from 2020 to 2023 from my Etsy shop. There are a total of 266 rows representing 266 sales. I merged and cleaned the DataFrames as necessary. The columns I utilized in my analysis are: `Sale Date`, `Quantity`, `Item Total`, `Date Shipped`, `Ship State`, `Ship Country`, `Processing Time`, `Rating`, `Review`, `Review Category`, `Sentiment`, and `Sentiment Category`.
+I downloaded sales and customer review data from 2020 to 2023 from my Etsy shop. There are a total of 266 rows representing 266 sales. I merged and cleaned the DataFrames as necessary. The columns I utilized in my analysis are: `Sale Date`, `Quantity`, `Item Total`, `Date Shipped`, `Ship State`, `Ship Country`, `Rating`, and `Review`. From there, I converted between data types and filtered missing values, manipulating the existing features to create `Processing Time`, `Review Category`, `Sentiment`, and `Sentiment Category`.
 
 **Descriptions of Columns**
 - `Sale Date`: the date the order was placed
